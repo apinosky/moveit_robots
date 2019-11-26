@@ -41,7 +41,7 @@ Visualization Manager:
         Z: 0
       Plane: XY
       Plane Cell Count: 10
-      Reference Frame: <Fixed Frame>
+      Reference Frame: base
       Value: true
     - Class: moveit_rviz_plugin/MotionPlanning
       Enabled: true
