@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
      <arg name="camera_link_pose" default="0.15 0.075 0.5 0.0 0.7854 0.0"/>
      <arg name="kinect" default="false"/>
